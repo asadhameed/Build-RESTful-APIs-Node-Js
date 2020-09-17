@@ -1,0 +1,2 @@
+ the following commond importdata from jSon to mongodb
+mongoimport --db mongo-exercises --collection courses --drop --file exercise-data.json --jsonArray
